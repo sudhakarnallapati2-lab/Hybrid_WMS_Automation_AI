@@ -1,0 +1,8 @@
+{
+  "default_backend": "EBS",
+  "ous": {
+    "India_OU": "EBS",
+    "US_OU": "SAAS",
+    "EU_OU": "SAAS"
+  }
+}
